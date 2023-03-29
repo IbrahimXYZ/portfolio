@@ -9,16 +9,16 @@
     font-weight: 600;
     transition: 0.2s;
     border: 0.1rem solid var(--accent-color);
-    
+
     a{
-        color:var(--text-color);
+        color: var(--text-color);
     }
 }
 
 .preview:hover{
     background-color: white;
     color:var(--accent-color);
-    
+
     a{
         color:var(--accent-color);
     }
@@ -34,19 +34,18 @@
     font-size: 1.2rem;
     font-weight: 600;
     transition: 0.2s;
-    border:0.1rem solid var(--accent-color);
-    
+    border:0.1rem solid var(--accent-color);  
     a{
-        color:var(--text-color);   
+        color:var(--text-color);
     }
 }
 
 .code:hover{
     background-color: white;
     color:var(--accent-color);
-    
+
     a{
-     color:var(--accent-color);  
+        color:var(--accent-color)
     }
 }
 
@@ -61,19 +60,17 @@
     font-size: 1rem;
     font-weight: 450;
     transition: 0.2s;
-    
+
     a{
-     color:var(--text-color);   
+        color: var(--text-color);
     }
 
 }
 
 .cv:hover{
     background-color: white;
-    color: var(--accent-color);
-    
     a{
-        color:var(--accent-color);
+        color: var(--accent-color);
     }
 }
 
